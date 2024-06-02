@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sasanika Jayarathne</h1>
 <h3 align="center">Passionate about software engineering from Sri Lanka.</h3>
+<p align="center">I am currently an intern software engineer at Expernetic Pvt Ltd, specializing in .NET, C#, Microsoft Azure, Azure DevOps, React, and TypeScript.</p>
 
 - 🌱 I’m currently learning **Spring Boot**
 
