@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sasanika Jayarathne - Intern Full stack Developer at Expernetic Pvt Ltd</h1>
+<h1 align="center">Hi 👋, I'm Sasanika Jayarathne - Intern Full stack Developer</h1>
 <h3 align="center">Studying Electronic and Information Technology (BSc Hons) at the University of Colombo, I am passionate about software engineering from Sri Lanka.</h3>
 
 - 🌱 I’m currently learning **.Net**
